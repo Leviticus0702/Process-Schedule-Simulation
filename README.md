@@ -1,3 +1,9 @@
+## Academic Context
+
+This project was completed as an **individual university project** for the Bachelor of Science in Computer Science at Stellenbosch University.
+
+All design decisions, implementation, and testing were performed independently. The repository is shared publicly as part of my professional portfolio.
+
 **Process Scheduling Simulation**
 
 *Overview*
