@@ -1,0 +1,4 @@
+# Do NOT change the contents of this file. It will be overwritten, and will likely break your builds. You may also lose marks.
+include:
+  - project: 'Computer-Science/rw314/rw314-tuts-ci'
+    file: 'student-marker-proj-ci.yml'
